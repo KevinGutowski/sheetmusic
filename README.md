@@ -5,4 +5,4 @@ Transcriptions and Arrangements
 | - | - | - | - |
 | [At the South Gate Border](./south_gate_border) | Nobuo Uematsu | 3 Violins | Needs Dynamics & Bowings |
 | [Kiki's Delivery Service](./kiki_solo) | Joe Hisaishi | Solo Violin | Incomplete |
-| [Part of Your World](./mermaid) | Alan Menken | Needs playable Cello part |
+| [Part of Your World](./mermaid) | Alan Menken | String Quartet | Needs playable Cello part |
